@@ -14,6 +14,14 @@ https://www.bilibili.com/video/BV1rt4y127ak/
 
 [万恶之源 —— 雷课堂需求文档](清华自动化大一C++课的“大”作业需求文档.md)
 
+# 雷课堂前置知识
+
+音频采样原理
+
+网络传输原理
+
+C++实现socket TCP传输视频
+
 # GuaLang
 gualang源代码即相关笔记
 
