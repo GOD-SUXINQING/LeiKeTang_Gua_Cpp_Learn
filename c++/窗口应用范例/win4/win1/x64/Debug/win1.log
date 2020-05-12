@@ -1,0 +1,4 @@
+﻿  win4.cpp
+H:\leiketang\c++\窗口应用范例\win4\win1\win4.cpp(182,1): warning C4312: “类型强制转换”: 从“const int”转换到更大的“HMENU”
+H:\leiketang\c++\窗口应用范例\win4\win1\win4.cpp(197,1): warning C4312: “类型强制转换”: 从“const int”转换到更大的“HMENU”
+  win1.vcxproj -> H:\leiketang\c++\窗口应用范例\win4\x64\Debug\win4.exe
